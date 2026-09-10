@@ -23,19 +23,20 @@ A retro-style, 2D top-down space shooter game built entirely with modern Web tec
 * **Styling**: CSS3
 
 ## Project Folder
+```text
 space-freedom/
-├── index.html        # Main HTML layout, canvas setup, and inline UI
-├── assets/           # Sprite sheets, graphics, and static artwork
+├── index.html          # Main HTML layout, canvas setup, and inline UI
+├── assets/             # Sprite sheets, graphics, and static artwork
 │   ├── images/
 │   └── icons/
 ├── css/
-│   └── style.css     # Game styling, hangar UI, and overlay menus
+│   └── style.css       # Game styling, hangar UI, and overlay menus
 └── js/
-    ├── audio.js       # Web Audio API synthesizer logic
-    ├── engine.js      # Game loop, state manager, and collision detection
-    ├── entities.js    # Player, enemies, bosses, and projectiles
-    └── ui.js          # Hangar upgrades and HUD interaction
-
+    ├── audio.js        # Web Audio API synthesizer logic
+    ├── engine.js       # Game loop, state manager, and collision detection
+    ├── entities.js     # Player, enemies, bosses, and projectiles
+    └── ui.js           # Hangar upgrades and HUD interaction
+```
 ## Quick Start
 
 No build tools, complex package managers, or server installations required.
