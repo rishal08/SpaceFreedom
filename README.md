@@ -11,10 +11,10 @@ A retro-style, 2D top-down space shooter game built entirely with modern Web tec
 * **Dynamic Weapon Power-Ups**: Collect mid-battle drops including spread shots, lasers, emergency repairs, and temporary shield boosts.
 
 ## Controls
-Movement: WASD or Arrow Keys
-Fire Weapon: Spacebar or Left Mouse Button
-Special / Ability: Shift or Right Mouse Button
-Pause / Menu: Esc or P
+- Movement: WASD or Arrow Keys
+- Fire Weapon: Spacebar or Left Mouse Button
+- Special / Ability: Shift or Right Mouse Button
+- Pause / Menu: Esc or P
 
 ## Tech Stack
 
