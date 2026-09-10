@@ -10,11 +10,31 @@ A retro-style, 2D top-down space shooter game built entirely with modern Web tec
 * **Multi-Stage Campaign**: Escalating stage progression featuring distinct enemy movement patterns and challenging boss encounters.
 * **Dynamic Weapon Power-Ups**: Collect mid-battle drops including spread shots, lasers, emergency repairs, and temporary shield boosts.
 
+## Controls
+Movement: WASD or Arrow Keys
+Fire Weapon: Spacebar or Left Mouse Button
+Special / Ability: Shift or Right Mouse Button
+Pause / Menu: Esc or P
+
 ## Tech Stack
 
 * **Frontend**: HTML5 Canvas, Vanilla JavaScript (ES6+)
 * **Audio**: Web Audio API (Synthesizers & Oscillators)
 * **Styling**: CSS3
+
+## Project Folder
+space-freedom/
+├── index.html        # Main HTML layout, canvas setup, and inline UI
+├── assets/           # Sprite sheets, graphics, and static artwork
+│   ├── images/
+│   └── icons/
+├── css/
+│   └── style.css     # Game styling, hangar UI, and overlay menus
+└── js/
+    ├── audio.js       # Web Audio API synthesizer logic
+    ├── engine.js      # Game loop, state manager, and collision detection
+    ├── entities.js    # Player, enemies, bosses, and projectiles
+    └── ui.js          # Hangar upgrades and HUD interaction
 
 ## Quick Start
 
