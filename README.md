@@ -1,6 +1,6 @@
 # Space Freedom
 
-A retro-style, 2D top-down space shooter game built entirely with modern Web technologies. **Space Freedom** delivers arcade-style action, dynamic enemy waves, intense boss fights, and deep hangar customization—all running natively in your browser with zero external engine dependencies.
+A retro-style, 2D top-down space shooter game built entirely with modern Web technologies. **Space Freedom** delivers arcade-style action, dynamic enemy waves, intense boss fights, and deep hangar customization all running natively in your browser with zero external engine dependencies.
 
 ## Key Features
 
